@@ -1,4 +1,4 @@
-# New York Carver Society Website
+# New York Archival Society Website
 
 This project recreates the website for the New York Carver Society, an affiliated association of the New York Records Department. The primary goal was to modernize and optimize the site's maintenance, achieving a significant reduction in costs.
 
