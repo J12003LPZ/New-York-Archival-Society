@@ -1,6 +1,6 @@
 # New York Archival Society Website
 
-This project recreates the website for the New York Carver Society, an affiliated association of the New York Records Department. The primary goal was to modernize and optimize the site's maintenance, achieving a significant reduction in costs.
+This project recreates the website for the New York Archival Society, an affiliated association of the New York Records Department. The primary goal was to modernize and optimize the site's maintenance, achieving a significant reduction in costs.
 
 ## Project Features
 
@@ -21,4 +21,4 @@ The previous website had a maintenance cost of approximately $2,500 per year, in
 
 ## Final Product
 
-For company reasons, I cannot share the source code. However, you can view the final product [here](https://newyorkarchivalsociety.org/).
+You can view the final product [here](https://newyorkarchivalsociety.org/).
